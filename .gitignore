@@ -47,3 +47,8 @@ project.lock.json
 # Rider/Resharper
 _ReSharper*/
 *.DotSettings.user
+
+# Exclude project-specific files
+global.json
+pr1_kyian.sln
+pr1_kyian/
