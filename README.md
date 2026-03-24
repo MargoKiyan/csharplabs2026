@@ -10,7 +10,8 @@
 ![Task3](pictures/task3.png)
 Результат виконання завдання №4:
 ![Task4](pictures/task4.1.png)
+Результат виконання завдання №4. Рекурсія:
 ![Task4](pictures/task4.2.png)
-Результат виконання завдання №4:
+Результат виконання завдання №5:
 ![Task5](pictures/task5.1.png)
 ![Task5](pictures/task5.2.png)
