@@ -1,0 +1,52 @@
+# Rider / JetBrains
+.idea/
+*.sln.iml
+
+# Build
+bin/
+obj/
+out/
+
+# User-specific
+*.user
+*.suo
+*.userprefs
+
+# NuGet
+*.nupkg
+.packages/
+
+# Visual Studio Code
+.vscode/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Logs
+*.log
+
+# Rider caches
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/usage.statistics.xml
+.idea/dictionaries
+
+# temporary, backup
+*~ 
+*.tmp
+
+# dotnet publish
+publish/
+
+# NuGet packages
+packages/
+project.lock.json
+
+# Rider/Resharper
+_ReSharper*/
+*.DotSettings.user
+
+# Ignore global.json
+global.json
