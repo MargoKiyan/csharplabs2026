@@ -1,0 +1,14 @@
+/Users/margokyian/RiderProjects/Modular1_kyian/Task1/bin/Debug/net8.0/Task1
+/Users/margokyian/RiderProjects/Modular1_kyian/Task1/bin/Debug/net8.0/Task1.deps.json
+/Users/margokyian/RiderProjects/Modular1_kyian/Task1/bin/Debug/net8.0/Task1.runtimeconfig.json
+/Users/margokyian/RiderProjects/Modular1_kyian/Task1/bin/Debug/net8.0/Task1.dll
+/Users/margokyian/RiderProjects/Modular1_kyian/Task1/bin/Debug/net8.0/Task1.pdb
+/Users/margokyian/RiderProjects/Modular1_kyian/Task1/obj/Debug/net8.0/Task1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/margokyian/RiderProjects/Modular1_kyian/Task1/obj/Debug/net8.0/Task1.AssemblyInfoInputs.cache
+/Users/margokyian/RiderProjects/Modular1_kyian/Task1/obj/Debug/net8.0/Task1.AssemblyInfo.cs
+/Users/margokyian/RiderProjects/Modular1_kyian/Task1/obj/Debug/net8.0/Task1.csproj.CoreCompileInputs.cache
+/Users/margokyian/RiderProjects/Modular1_kyian/Task1/obj/Debug/net8.0/Task1.dll
+/Users/margokyian/RiderProjects/Modular1_kyian/Task1/obj/Debug/net8.0/refint/Task1.dll
+/Users/margokyian/RiderProjects/Modular1_kyian/Task1/obj/Debug/net8.0/Task1.pdb
+/Users/margokyian/RiderProjects/Modular1_kyian/Task1/obj/Debug/net8.0/Task1.genruntimeconfig.cache
+/Users/margokyian/RiderProjects/Modular1_kyian/Task1/obj/Debug/net8.0/ref/Task1.dll
