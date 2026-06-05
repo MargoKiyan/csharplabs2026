@@ -1,0 +1,28 @@
+/Users/margokyian/Documents/New project/pr4_kyian/Task3/bin/Debug/net8.0/Task3
+/Users/margokyian/Documents/New project/pr4_kyian/Task3/bin/Debug/net8.0/Task3.deps.json
+/Users/margokyian/Documents/New project/pr4_kyian/Task3/bin/Debug/net8.0/Task3.runtimeconfig.json
+/Users/margokyian/Documents/New project/pr4_kyian/Task3/bin/Debug/net8.0/Task3.dll
+/Users/margokyian/Documents/New project/pr4_kyian/Task3/bin/Debug/net8.0/Task3.pdb
+/Users/margokyian/Documents/New project/pr4_kyian/Task3/obj/Debug/net8.0/Task3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/margokyian/Documents/New project/pr4_kyian/Task3/obj/Debug/net8.0/Task3.AssemblyInfoInputs.cache
+/Users/margokyian/Documents/New project/pr4_kyian/Task3/obj/Debug/net8.0/Task3.AssemblyInfo.cs
+/Users/margokyian/Documents/New project/pr4_kyian/Task3/obj/Debug/net8.0/Task3.csproj.CoreCompileInputs.cache
+/Users/margokyian/Documents/New project/pr4_kyian/Task3/obj/Debug/net8.0/Task3.dll
+/Users/margokyian/Documents/New project/pr4_kyian/Task3/obj/Debug/net8.0/refint/Task3.dll
+/Users/margokyian/Documents/New project/pr4_kyian/Task3/obj/Debug/net8.0/Task3.pdb
+/Users/margokyian/Documents/New project/pr4_kyian/Task3/obj/Debug/net8.0/Task3.genruntimeconfig.cache
+/Users/margokyian/Documents/New project/pr4_kyian/Task3/obj/Debug/net8.0/ref/Task3.dll
+/Users/margokyian/RiderProjects/pr4_kyian/Task3/bin/Debug/net8.0/Task3
+/Users/margokyian/RiderProjects/pr4_kyian/Task3/bin/Debug/net8.0/Task3.deps.json
+/Users/margokyian/RiderProjects/pr4_kyian/Task3/bin/Debug/net8.0/Task3.runtimeconfig.json
+/Users/margokyian/RiderProjects/pr4_kyian/Task3/bin/Debug/net8.0/Task3.dll
+/Users/margokyian/RiderProjects/pr4_kyian/Task3/bin/Debug/net8.0/Task3.pdb
+/Users/margokyian/RiderProjects/pr4_kyian/Task3/obj/Debug/net8.0/Task3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/margokyian/RiderProjects/pr4_kyian/Task3/obj/Debug/net8.0/Task3.AssemblyInfoInputs.cache
+/Users/margokyian/RiderProjects/pr4_kyian/Task3/obj/Debug/net8.0/Task3.AssemblyInfo.cs
+/Users/margokyian/RiderProjects/pr4_kyian/Task3/obj/Debug/net8.0/Task3.csproj.CoreCompileInputs.cache
+/Users/margokyian/RiderProjects/pr4_kyian/Task3/obj/Debug/net8.0/Task3.dll
+/Users/margokyian/RiderProjects/pr4_kyian/Task3/obj/Debug/net8.0/refint/Task3.dll
+/Users/margokyian/RiderProjects/pr4_kyian/Task3/obj/Debug/net8.0/Task3.pdb
+/Users/margokyian/RiderProjects/pr4_kyian/Task3/obj/Debug/net8.0/Task3.genruntimeconfig.cache
+/Users/margokyian/RiderProjects/pr4_kyian/Task3/obj/Debug/net8.0/ref/Task3.dll
