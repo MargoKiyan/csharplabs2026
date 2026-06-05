@@ -1,0 +1,14 @@
+[
+  {
+    "Id": "5eb6b32b-f883-45ca-bd1f-23e5b200d85d",
+    "FullName": "Киян Маргарита",
+    "Email": "m.kyian@example.com",
+    "RegisteredAt": "2026-06-05T13:34:39.000823+03:00"
+  },
+  {
+    "Id": "e0d1472c-3637-4a36-98e2-34c24ac95437",
+    "FullName": "Олена Петренко",
+    "Email": "olena.petrenko@example.com",
+    "RegisteredAt": "2026-06-05T13:34:39.003305+03:00"
+  }
+]
